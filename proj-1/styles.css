@@ -1,0 +1,13 @@
+.app {
+    font-family: 'Roboto Mono', monospace;
+    margin: 4ex;
+    text-align: start;
+    color: black;
+    font-size: xx-large;
+}
+h {
+    color: red;
+}
+h4 {
+    color: orange;
+}
